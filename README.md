@@ -22,11 +22,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Kapture 2024-01-08 at 21 57 18](https://github.com/alisonfung/web102_prework/assets/90418786/b9242f48-619e-490c-ab35-f0920b305d16)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ezgif.com  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
