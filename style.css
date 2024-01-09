@@ -13,14 +13,27 @@ body {
     display: flex;
     background-color: lightblue;
     padding: 1%;
-    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
 }
 
+.header a:visited{
+    color:black;
+}
+
 .stats-container {
     display: flex;
+    background-color: grey;
+    align-items: center;
+    cursor: pointer;
+    
+}
+
+.stats-container:hover{
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
